@@ -6,7 +6,7 @@ title: Benjamin Ellis
 
 # Full name (for SEO)
 first_name: Benjamin
-last_name: Ellisss
+last_name: Ellis
 
 # Status emoji
 # Is this the primary user of the site?

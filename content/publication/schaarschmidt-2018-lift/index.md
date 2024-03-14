@@ -3,7 +3,7 @@ title: 'Lift: Reinforcement learning in computer systems by learning from demons
 authors:
 - Michael Schaarschmidt
 - Alexander Kuhnle
-- Ben Ellis
+- admin
 - Kai Fricke
 - Felix Gessert
 - Eiko Yoneki
